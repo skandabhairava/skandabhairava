@@ -33,6 +33,9 @@
     <a href="https://en.wikipedia.org/wiki/CSS">    
         <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
     </a>
+    <a href="https://shotcut.org/">    
+        <img src="https://img.shields.io/badge/-Shotcut-informational?style=for-the-badge&logo=shotcut&logoColor=black" />
+    </a>
     <a href="https://en.wikipedia.org/wiki/Python_(programming_language)">    
         <img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=gold" />
     </a>
