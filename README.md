@@ -58,8 +58,8 @@
 </a>
 
 
-<a href="https://github.com/skandabhairava/Scripting_tools">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=skandabhairava&repo=Scripting_tools&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/skandabhairava/Pie-manager">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=skandabhairava&repo=Pie-manager&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>  
 
 ---
