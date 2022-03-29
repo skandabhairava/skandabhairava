@@ -1,3 +1,8 @@
+# About Me
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?&lines=Pythonista;Language+Enthusiast(Natural+language);Gaming;Helping+others;Never+gonna+give+you+up)](https://git.io/typing-svg)
+
+---
+
 <div align="center">
      <a href="https://github.com/skandabhairava">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
