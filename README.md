@@ -4,11 +4,8 @@
 ---
 
 <div align="center">
-     <a href="https://github.com/skandabhairava">
+    <a href="https://github.com/skandabhairava">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-    </a>
-    <a href="https://www.youtube.com/Terroid">
-        <img src="https://img.shields.io/badge/-Youtube-red?style=for-the-badge&logo=Youtube&logoColor=white">
     </a>
     <a href="https://twitter.com/TerroidYT">
         <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
