@@ -18,34 +18,9 @@
 ---
 
 <div align="center">
-    <a href="https://code.visualstudio.com/">
-        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-    </a>
-    <a href="https://git-scm.com/">
-        <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-    </a>
+    [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,discord,bots,py,git,github,md,mysql,flask,linux,vscode,django,rust,java,ps,regex)](https://skills.thijs.gg)
 </div>
 
----
-
-<div align="center">
-    <a href="https://en.wikipedia.org/wiki/HTML">    
-        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-    </a>    
-    <a href="https://en.wikipedia.org/wiki/CSS">    
-        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-    </a>
-    <a href="https://shotcut.org/">    
-        <img src="https://img.shields.io/badge/-Shotcut-informational?style=for-the-badge&logo=shotcut&logoColor=black" />
-    </a>
-    <a href="https://en.wikipedia.org/wiki/Python_(programming_language)">    
-        <img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=gold" />
-    </a>
-    <a href="https://palletsprojects.com/p/flask/">    
-        <img src="https://img.shields.io/badge/-Flask-white?style=for-the-badge&logo=flask&logoColor=black" />
-    </a>
-</div>    
-  
 ---
 
 <a href="https://github.com/skandabhairava/skandabhairava">
