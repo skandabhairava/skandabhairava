@@ -18,7 +18,9 @@
 ---
 
 <div align="center">
-    [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,discord,bots,py,git,github,md,mysql,flask,linux,vscode,django,rust,java,ps,regex)](https://skills.thijs.gg)
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=js,html,css,cs,discord,bots,py,git,github,md,mysql,flask,linux,vscode,django,rust,java,ps,regex" />
+    </a>
 </div>
 
 ---
