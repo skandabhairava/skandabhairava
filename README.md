@@ -35,8 +35,8 @@
     <a href="https://github.com/skandabhairava/skandabhairava">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=skandabhairava&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="skandabhairava's GitHub Stats" />
     </a>
-    <a href="https://github.com/skandabhairava/Mentocia">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=skandabhairava&repo=Mentocia&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+    <a href="https://github.com/skandabhairava/Oxidised-Obbattu">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=skandabhairava&repo=Oxidised-Obbattu&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
     </a>
     <a href="https://github.com/skandabhairava/Pie-manager">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=skandabhairava&repo=Pie-manager&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
